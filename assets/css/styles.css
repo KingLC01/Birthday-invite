@@ -33,7 +33,7 @@ section.birthday-wrapper h1.birthday-heading {
 }
 
 /*  Birthday Mobile*/
-@media only screen and (max-width: 362px) {
+@media only screen and (max-width: 450px) {
   section.birthday-wrapper {
     display: flex;
     flex-direction: column;
@@ -70,7 +70,7 @@ section.image-wrapper img.image-two {
   border-radius: 10px;
 }
 
-@media only screen and (max-width: 362px) {
+@media only screen and (max-width: 450px) {
   section.image-wrapper {
     display: flex;
     flex-direction: column;
@@ -146,7 +146,7 @@ section.image-wrapper img.image-two {
 /* Heading Text End */
 
 /* Mobile Heading */
-@media only screen and (max-width: 362px) {
+@media only screen and (max-width: 450px) {
     .birthday-text__wrapper {
         display: flex;
         align-items: center;
@@ -243,7 +243,7 @@ section.info-wrapper {
 /* Info End */
 
 /* Mobile Info */
-@media only screen and (max-width: 362px) {
+@media only screen and (max-width: 450px) {
     .info-heading__wrapper {
         display: flex;
         flex-direction: column;
