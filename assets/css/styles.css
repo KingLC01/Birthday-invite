@@ -60,12 +60,12 @@ section.image-wrapper {
   padding: 35px;
   gap: 10px;
 }
-section.image-wrapper img.image-one {
+img.image-one {
   width: 37%;
   border-radius: 10px;
 }
 
-section.image-wrapper img.image-two {
+img.image-two {
   width: 37%;
   border-radius: 10px;
 }
@@ -79,12 +79,12 @@ section.image-wrapper img.image-two {
     padding: 26px;
     gap: 30px;
   }
-  section.image-wrapper img.image-one {
+ img.image-one {
     width: 110%;
     justify-items: center;
     border-radius: 10px;
   }
-  section.image-wrapper img.image-two {
+  img.image-two {
     width: 110%;
     border-radius: 10px;
   }
@@ -131,7 +131,7 @@ section.image-wrapper img.image-two {
   gap: 5px;
 }
 
-.birthday-text__paragraph__wrapper img.image-three {
+img.image-three {
   width: 37%;
   border-radius: 10px;
 }
@@ -169,7 +169,7 @@ section.image-wrapper img.image-two {
     margin: 5%;
     gap: 5px;
   }
-  .birthday-text__paragraph__wrapper img.image-three {
+  img.image-three {
     align-items: center;
     width: 110%;
     border-radius: 10px;
